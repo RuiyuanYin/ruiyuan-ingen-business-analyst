@@ -4,8 +4,6 @@
 **Assessment date:** 13 July 2026  
 **Scope:** Fari, Senpai, Sentinel Prime AI, Aido Rover, Aido Humanoid, and PIC 2.0
 
-This report uses public information only. InGen does not publish a price or full energy specification for every product, so the cost tiers and energy classes below are my estimates. They are not InGen quotations.
-
 Cost tiers used in this report are: Tier 1 below $5,000, Tier 2 from $5,000 to $25,000, Tier 3 from $25,000 to $100,000, and Tier 4 above $100,000.
 
 ## Short overview
