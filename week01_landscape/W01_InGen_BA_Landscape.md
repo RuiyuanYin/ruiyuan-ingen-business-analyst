@@ -155,10 +155,3 @@ CRL-MRS is closest to cooperative multi-agent reinforcement learning with centra
 3. Product maturity should control how strong the business claim can be. A design target is not the same as tested customer performance.
 4. Every pilot needs a clear baseline and one output measure. Otherwise, it is difficult to know whether the robot creates value.
 5. All estimated prices and energy classes should be replaced when vendor quotations, measured power logs, battery-cycle data, and real pilot results are available.
-
-## Evidence limits
-
-- This is a Week 1 business landscape, not an engineering certification, legal opinion, or purchase quotation.
-- Public product pages may change, and some descriptions are forward-looking.
-- Buyer roles, cost tiers, energy classes, TCO drivers, and risks are my analysis based on the public information available on the assessment date.
-- No confidential InGen price, forecast, or internal performance figure is used in this report.
