@@ -1,0 +1,9 @@
+# Week 2 Recap — Competitive Intelligence
+
+This week I built a database of 17 physical AI vendors across security and indoor patrol, outdoor patrol and logistics, and humanoid robots. I expected the technical comparison to be the hardest part. Instead, the biggest surprise was how difficult it is to compare prices. Only 3 of the 17 vendors publish a fixed price or an explicit subscription amount (`Overview!B6:B7`). The other 14 ask customers to contact sales, use an enterprise agreement, or describe MaaS/RaaS without giving the amount. A buyer can often understand the product before knowing what a pilot may cost.
+
+The humanoid tab made this difference especially clear. Unitree lists R1-D from US$4,290, while Booster lists the K1 from US$5,999. The prices are recorded in `Humanoid!G8` (Source S42) and `Humanoid!G11` (Source S36). `Overview!B11` returns the lower figure, and `Overview!B12 = 2` because the workbook counts vendors rather than every product version. These products are aimed mainly at developers, schools, and research teams, but they show that basic hardware access is getting cheaper.
+
+Companies such as Figure, Agility, and Apptronik compete through deployments, software, integration, and enterprise partners instead of a public unit price. This changed how I think about InGen's cost position. Claiming the lowest hardware price would be difficult to defend. A better approach is to show the cost and effort required to get a useful result. Sentinel Prime AI could report cost per monitored hour. Aido Rover could track cost per completed mission. Aido Humanoid could measure task completion and the engineering time needed to deploy one stable workflow.
+
+The next step is to test whether a stated pilot range and a simple TCO worksheet help customers start a pilot sooner. My main takeaway is that InGen should compete on measurable cost per outcome and keep site-specific pricing in the final proposal.
